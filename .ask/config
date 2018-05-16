@@ -1,0 +1,20 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.ce0cbae0-d16b-4469-abab-87e23d56d469",
+      "was_cloned": false,
+      "merge": {
+        "manifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "ask-custom-TestOrder-default"
+              }
+            }
+          }
+        }
+      },
+      "in_skill_products": []
+    }
+  }
+}
